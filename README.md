@@ -1,1 +1,3 @@
-# Applied-software-design-c-
+# Applied-software-design-c++
+
+This repository has all the milestons and exercise
